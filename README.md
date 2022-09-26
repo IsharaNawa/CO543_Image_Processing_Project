@@ -1,2 +1,5 @@
 # CO543_Image_Processing_Project
-update me
+
+## Sri Lankan Vehicle Number Plate Recognition System
+
+Designed using Opencv on google colab environment. 
